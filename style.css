@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 @import url('https://fonts.googleapis.com/css?family=Kavivanar');
-@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
 
 #grid{
     display:grid;
@@ -33,15 +33,15 @@ font-size:25px;
 
 h2{
     font-size:40px;
-    font-family:Anton;
+    font-family:Lobster;
 }
 
 h3{
     font-size:40px;
-    font-family:Anton;
+    font-family:Lobster;
 }
 
 h1{
     font-size:40px;
-    font-family:Anton;
+    font-family:Lobster;
 }
