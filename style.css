@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Kavivanar');
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+#grid{
+    display:grid;
+    grid-template-columns:1;
+    grid-template-rows:4;
+}
+ #mtaPic{
+    margin-left:25%;
+    height:50%;
+    width:50%;
+    float:right;
+} 
+
+img{
+    width:100%;
+}
+#Metro{
+     height:50%;
+    width:50%;
+    float:left;  
+}
+body {
+     background: linear-gradient(to bottom, #ffffff 0%, #009999 100%);
+}
+
+ul{
+font-family:Kavivanar;
+font-size:25px;
+}
+
+h2{
+    font-size:40px;
+    font-family:Anton;
+}
+
+h3{
+    font-size:40px;
+    font-family:Anton;
+}
+
+h1{
+    font-size:40px;
+    font-family:Anton;
+}
